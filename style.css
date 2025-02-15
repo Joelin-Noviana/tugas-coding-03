@@ -53,6 +53,12 @@ section p {
 span.one {
     color: red;
 }
+span.two {
+    color: pink;
+}
+span.three {
+    color : yellow;
+}
 
 section form{
     /* background-color: salmon; */
